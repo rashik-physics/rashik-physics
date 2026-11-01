@@ -55,7 +55,7 @@ Shahjalal University of Science and Technology, Bangladesh.
 - **MSc in Physics (thesis-based)** — Shahjalal University of Science and Technology
 - **BSc in Physics** — Shahjalal University of Science and Technology
 
-## Public Code Demonstrations
+## Selected Computational Projects
 
 ### [OpenCV Video Illumination Analysis](https://github.com/rashik-physics/opencv-video-analysis-demo)
 
@@ -63,7 +63,7 @@ An educational Python demonstration that generates a synthetic video, analyzes m
 
 ### Computational photonics — educational project
 
-A Python notebook explores the band structure of an infinite one-dimensional dielectric stack using plane-wave expansion. It includes analytic Fourier coefficients, FFT comparisons, a uniform-medium check, and a first-gap convergence study. The prepared notebook's 10 code cells passed their existing assertions in a local verification run. Repository publication is pending.
+A Python notebook explores the band structure of an infinite one-dimensional dielectric stack using plane-wave expansion. It includes analytic Fourier coefficients, FFT comparisons, a uniform-medium check, and a first-gap convergence study. The prepared notebook's 10 code cells passed their existing assertions in a local verification run. The code is currently hosted in a private repository.
 
 The model assumes normal incidence and lossless, nondispersive materials. This is a learning project in classical electromagnetism; it does not claim COMSOL validation, experimental results, or a publication.
 
