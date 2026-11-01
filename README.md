@@ -61,9 +61,9 @@ Shahjalal University of Science and Technology, Bangladesh.
 
 An educational Python demonstration that generates a synthetic video, analyzes mean Y-channel values within a fixed rectangular region of interest, and exports a time series and plot. It illustrates frame-by-frame processing, ROI selection, and visualization. It does not estimate respiratory rate or provide a validated physiological measurement.
 
-### Computational photonics — educational project
+### [1D Photonic Crystal Band Structure](https://github.com/rashik-physics/1d-photonic-crystal-pwe)
 
-A Python notebook explores the band structure of an infinite one-dimensional dielectric stack using plane-wave expansion. It includes analytic Fourier coefficients, FFT comparisons, a uniform-medium check, and a first-gap convergence study. The prepared notebook's 10 code cells passed their existing assertions in a local verification run. The code is currently hosted in a private repository.
+A Python notebook explores the band structure of an infinite one-dimensional dielectric stack using plane-wave expansion. It includes analytic Fourier coefficients, FFT comparisons, a uniform-medium check, and a first-gap convergence study. The prepared notebook's 10 code cells passed their existing assertions in a local verification run. The notebook, Python script, run instructions, and verification log are available in the linked repository.
 
 The model assumes normal incidence and lossless, nondispersive materials. This is a learning project in classical electromagnetism; it does not claim COMSOL validation, experimental results, or a publication.
 
